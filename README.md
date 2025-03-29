@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @babu
+- 👋 Hi, I’m @babuconsultant
 you can reach me at +91 99400 69988 and interested in ML, DL and Gen AI related projects
 
 <!---
